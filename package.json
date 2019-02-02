@@ -1,0 +1,12 @@
+{
+    "name": "css",
+    "description": "css-property-analyzer",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_css_propertychange.json",
+            "credentialsFile": "flows_css_propertychange_cred.json"
+        }
+    }
+}
