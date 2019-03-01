@@ -2,7 +2,9 @@
     "name": "css",
     "description": "css-property-analyzer",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-fs-ops": "1.5.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_css_propertychange.json",
